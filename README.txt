@@ -1,1 +1,1 @@
-View Page : https://iambhagath.github.io/Tejs/
+View Page : https://iambhagath.github.io/Tejas/
